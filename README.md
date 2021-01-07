@@ -1,55 +1,34 @@
-# README Template
+## About this Repository
+This repository is related to the Java Web Developer (ND035 v1), Course - **Data Stores and Persistence**.
 
-Below is a template provided for use when building your README file for students.
+It contains the following folders:
+1. exercises: Contains the classroom exercises
+2. P03-ReviewsAPI-Midterm-Starter
+3. P03-ReviewsAPI-Midterm-Solution
+4. P03-ReviewsAPI-Final-Starter
 
-# Project Title
+Each project folder contains a project README file that has the instructions to follow.
 
-Project description goes here.
+>**Note** Generally, you cannot clone a particular folder to your local system. Instead, you clone the *entire repository*, as explained below:
 
-## Getting Started
+## How to clone this repository
+### Step 1 - Fork the repository
+Make a copy of this repository in your Github account. You can do so by clicking `Fork` on the top right corner of this repository. 
 
-Instructions for how to get a copy of the project running on your local machine.
 
-### Dependencies
+### Step 2 - Clone the repo using the command-line terminal
+Once a copy of the repository is forked to your Github account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C3-Data-Stores-and-Persistence.git`
 
+
+Now, you will need to clone (download) the repository locally in your system. You can run the following commands in your terminal (macOS/Linux)/Gitbash (Windows):
+**Note** - Do not forget to change the repository HTTPS URL before running the following command. 
+```bash
+git clone https://github.com/udacity/nd035-v1-C3-Data-Stores-and-Persistence.git
+cd nd035-v1-C3-Data-Stores-and-Persistence
 ```
-Examples here
-```
+Once you have downloaded the repository locally, you can optionally refer to the blog [Clone a Project from GitHub](https://blog.jetbrains.com/idea/2020/10/clone-a-project-from-github/), or [Instructions to import a project](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html).
 
-### Installation
-
-Step by step explanation of how to get a dev environment running.
-
-List out the steps
-
-```
-Give an example here
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
-
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
 
 ## License
-
 [License](LICENSE.txt)
+
