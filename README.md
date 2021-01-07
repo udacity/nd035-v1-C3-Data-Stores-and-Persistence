@@ -17,11 +17,11 @@ Make a copy of this repository in your Github account. You can do so by clicking
 
 
 ### Step 2 - Clone the repo using the command-line terminal
-Once a copy of the repository is forked to your Github account, you can copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C3-Data-Stores-and-Persistence.git`
+1. Copy the repository HTTP URL, such as `https://github.com/YOUR_ACCOUNT_NAME/nd035-v1-C3-Data-Stores-and-Persistence.git`
 
 
-Now, you will need to clone (download) the repository locally in your system. You can run the following commands in your terminal (macOS/Linux)/Gitbash (Windows):
-**Note** - Do not forget to change the repository HTTPS URL before running the following command. 
+2. Clone (download) the repository locally in your system by run the following (sample) commands in your terminal (macOS/Linux)/Gitbash (Windows):
+>**Note** - Do not forget to change the repository HTTPS URL before running the first command. 
 ```bash
 git clone https://github.com/udacity/nd035-v1-C3-Data-Stores-and-Persistence.git
 cd nd035-v1-C3-Data-Stores-and-Persistence
