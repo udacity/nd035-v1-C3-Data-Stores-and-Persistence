@@ -26,7 +26,7 @@ Make a copy of this repository in your Github account. You can do so by clicking
 git clone https://github.com/udacity/nd035-v1-C3-Data-Stores-and-Persistence.git
 cd nd035-v1-C3-Data-Stores-and-Persistence
 ```
-Once you have downloaded the repository locally, you can optionally refer to the blog [Clone a Project from GitHub](https://blog.jetbrains.com/idea/2020/10/clone-a-project-from-github/), or [Instructions to import a project](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html).
+Next, you can import the individual projects or exercises in your IDE. For help in cloning or importing, refer to the [Instructions to import a project](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html).
 
 
 ## License
